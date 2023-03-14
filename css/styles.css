@@ -17,6 +17,28 @@ h2,
   font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.background1 {
+  background-image: url('/images/home-header.jpg');
+  min-height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.guitarstrum {
+  border-radius: 10%;
+}
+
+.review1 {
+  border-radius: 100%;
+}
+.review2 {
+  border-radius: 100%;
+}
 header,
 footer {
   background-color: #202020;
